@@ -1,0 +1,11 @@
+Comandos do Terminal
+
+dir ou ls: ler os conteúdos de um diretório
+mkdir: criar um diretório
+cd : navegar para determinado diretório (digitando "cd /" encontra-se "c:")
+cd .. : volta para o diretório anterior
+clear ou cls: limpa todo o terminal
+
+Lista de comandos do Git
+
+<script src="https://gist.github.com/leocomelli/2545add34e4fec21ec16.js"></script>
